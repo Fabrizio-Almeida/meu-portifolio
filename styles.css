@@ -278,6 +278,10 @@ footer {
     transform: translate(-50%, -50%);
 }
 
+.pro {
+    display: inline-flex;
+    padding: 15px;
+}
 img {
     max-width: 100%;
     height: auto;
